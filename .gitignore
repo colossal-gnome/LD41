@@ -37,3 +37,4 @@ export_presets.cfg
 # ----------------------------
 
 # Add project specific ignores below:
+build/*
